@@ -1,0 +1,7 @@
+pyarrow
+pandas
+torchdata
+retrying
+opencv-python
+tensorflow==2.13.1
+s3fs
